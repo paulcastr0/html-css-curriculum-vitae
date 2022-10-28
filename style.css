@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    font-weight: bolder;
+}
+
+h3 {
+    font-size: 25px;
+    color: goldenrod;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
